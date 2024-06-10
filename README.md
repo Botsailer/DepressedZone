@@ -30,10 +30,7 @@ this Project is basically the static Website
 
 For support, email sailerbot08@gmail.com or get In touch with our Discord channel 
 
-<a  href="https://discord.gg/jwJxW9cz9d">
-   <img src="https://discordapp.com/api/guilds/770349599679578133/widget.png?style=banner2"/>
-</a>
-
+<iframe src="https://discord.com/widget?id=770349599679578133&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 
