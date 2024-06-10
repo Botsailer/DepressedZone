@@ -36,7 +36,7 @@ For support, email sailerbot08@gmail.com or get In touch with our Discord channe
 
 
 <a href ="https://www.instagram.com/compiler.err0r.404/">
-<img src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg?w=124"/>
+<img src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg?"  style="width: 120px;"/>
 </a>
  
 
