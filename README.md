@@ -1,7 +1,7 @@
 
-# Botsailer.live
+# DepressedZone
 
-Botsailer.live is an simple entertainment platform built with help of Vite (react.js) this Sites requires no login and is completely ad free and anyone can use this Site 
+DepressedZone is an simple entertainment platform built with help of Vite (react.js) this Sites requires no login and is completely ad free and anyone can use this Site 
 
 this site is backeup with opensource Api Mentioned Below:
 
