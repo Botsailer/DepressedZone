@@ -13,6 +13,10 @@ this site is backeup with opensource Api Mentioned Below:
 https://botsailer.live
 
 
+##NEED HELP ! 
+
+need help in maintaining the next and previous button on manga chapter reading page Its completely Messed
+ 
 
 ## Contributing
 
