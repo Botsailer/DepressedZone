@@ -28,14 +28,17 @@ this Project is basically the static Website
 
 ## Support
 
-For support, email sailerbot08@gmail.com or get In touch with our Discord channel 
+For support, email sailerbot08@gmail.com or get In touch with our Discord channel Or Instagram
 
 <a  href="https://discord.gg/jwJxW9cz9d">
   <img src="https://images.indianexpress.com/2021/12/Discord-101-featured.jpg?w=124"/>
 </a>
 
 
-
+<a href ="https://www.instagram.com/compiler.err0r.404/">
+<img src = "https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg"/>
+</a>
+ 
 
 
 ## Features
