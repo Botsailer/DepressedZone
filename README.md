@@ -31,7 +31,7 @@ this Project is basically the static Website
 For support, email sailerbot08@gmail.com or get In touch with our Discord channel 
 
 <a  href="https://discord.gg/jwJxW9cz9d">
-  <img src="https://discordapp.com/api/guilds/770349599679578133/embed.png?style=banner4"/>
+  <img src="https://images.indianexpress.com/2021/12/Discord-101-featured.jpg?w=640"/>
 </a>
 
 
