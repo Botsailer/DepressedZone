@@ -30,30 +30,12 @@ this Project is basically the static Website
 
 For support, email sailerbot08@gmail.com or get In touch with our Discord channel 
 
-<iframe src="https://discord.com/widget?id=770349599679578133&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a  href="https://discord.gg/jwJxW9cz9d">
+  <img src="https://discordapp.com/api/guilds/770349599679578133/embed.png?style=banner4"/>
+</a>
 
 
 
-
-# Project Title
-
-Botsailer.live is an simple entertainment platform built with help of Vite (react.js) this Sites requires no login and is completely ad free and anyone can use this Site 
-
-this site is backeup with opensource Api Mentioned Below:
-
-
-# Project Title
-
-Botsailer.live is an simple entertainment platform built with help of Vite (react.js) this Sites requires no login and is completely ad free and anyone can use this Site 
-
-this site is backeup with opensource Api Mentioned Below:
-
-
-# Project Title
-
-Botsailer.live is an simple entertainment platform built with help of Vite (react.js) this Sites requires no login and is completely ad free and anyone can use this Site 
-
-this site is backeup with opensource Api Mentioned Below:
 
 
 ## Features
