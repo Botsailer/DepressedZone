@@ -51,8 +51,8 @@ For support, email sailerbot08@gmail.com or get In touch with our Discord channe
 - Live previews
 - Fullscreen mode
 - Cross platform
-- Real-time Anime Episodes / Manga
-  Chapters
+- Real-time Anime Episodes
+-  Manga Chapters
 
 # Botsailer.live
 
