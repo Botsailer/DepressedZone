@@ -15,11 +15,8 @@ https://botsailer.live
 
 ## Need Help !!!
 
-need help in maintaining the next and previous button on manga chapter reading page Its completely Messed
+<del>need help in maintaining the next and previous button on manga chapter reading page Its completely Messed</del>
  
-
-## Contributing
-
 
 
 
